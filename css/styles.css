@@ -279,6 +279,29 @@ padding-bottom: 94px;
     color: var(--main-title-color-first);
     margin-bottom: 50px;
 }
+.third-main-list-title-img{
+    display: flex;
+}
+.third-main-img-text{
+    position: relative;
+}
+
+.third-main-list-title-text{
+position: absolute;
+width: 370px;
+height: 70px;
+font-weight: 700;
+font-size: 14px;
+bottom:0;
+line-height: 1.14;
+display: flex;
+align-items: center;
+justify-content: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #FFFFFF;
+background: rgba(47, 48, 58, 0.8);
+}
 .fourth-main-section {
     background: #F5F4FA;
     padding-top: 94px;
