@@ -578,8 +578,8 @@ background: rgba(47, 48, 58, 0.8);
     
 }
 .modal{
-    width: 1600px;
-    height: 1024px;
+    width: 528px;
+    height: 581px;
     background: #FFFFFF;
     position: absolute;
     top: 50%;
@@ -595,8 +595,8 @@ background: rgba(47, 48, 58, 0.8);
     position: absolute;
     width: 30px;
     height: 30px;
-    left: 1026px;
-    top: 229px;
+    left: 490px;
+    top: 8px;
     border-radius: 50%;
     background: #FFFFFF;
     border: 1px solid rgba(0, 0, 0, 0.1);
